@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+.readme.txt.swp
+__pycache__/
+feedforward[old].ipynb
+flyRNN.hdf5
+joint_angles/
+joint_angles\[unmedfiltered\]/
+models/
+old/
+scripts/
+test.gif
+test.mp4
+training_set/
+validation_set/
+kanishk_scripts/
