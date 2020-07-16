@@ -1,3 +1,9 @@
 github/
 nongithub/
-.ipynb_checkpoints/
+.ipynb_checkpoints/*
+validation_set/
+fly0layer*
+fly3layer*
+MotionMapper-master/
+__pycache__/
+
