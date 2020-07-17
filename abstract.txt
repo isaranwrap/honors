@@ -1,0 +1,12 @@
+Behavior is a complex process that operates across many time and length
+scales, in many different contexts, and differentially to a variety of external
+and internal stimuli. The necessity to quantify behavior in a precise and
+meaningful manner, however, is growing as the advent of new technologies -
+optogenetics, connectomics, optical imaging techniques - in the world of
+neuroscience has led to an explosion of assembling and analyzing large swaths
+of neural data. Here we investigate recurrent neural networks (RNNs) as a
+model of the underlying dynamics of Drosophila melanogaster and find the
+behavioral representation it constructs similar to representations built from the
+previously published results of postural time series. This is a markedly different
+result from that of RNNs applied to rat models and we investigate the
+implications. 
