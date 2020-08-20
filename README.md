@@ -3,8 +3,8 @@
 
 <p align=”center”>
   
-![slide37](https://user-images.githubusercontent.com/30949122/90707274-14a57100-e24c-11ea-8300-a14a16b65924.gif) 
-![slide43](https://user-images.githubusercontent.com/30949122/90707656-f0965f80-e24c-11ea-9f66-99cdbb0af1f0.gif)
+![slide37](https://user-images.githubusercontent.com/30949122/90708986-06595400-e250-11ea-93e3-2da4f8970556.gif)
+![slide43](https://user-images.githubusercontent.com/30949122/90708882-cabe8a00-e24f-11ea-92c9-230f56cf553d.gif)
 
 </p>
 
