@@ -3,8 +3,9 @@
 
 <p align=”center”>
   
-![slide37](https://user-images.githubusercontent.com/30949122/90707274-14a57100-e24c-11ea-8300-a14a16b65924.gif)
-  
+![slide37](https://user-images.githubusercontent.com/30949122/90707274-14a57100-e24c-11ea-8300-a14a16b65924.gif) 
+![slide43](https://user-images.githubusercontent.com/30949122/90707656-f0965f80-e24c-11ea-9f66-99cdbb0af1f0.gif)
+
 </p>
 
 My honors thesis work was on building a behavioral representation with recurrent neural networks (RNNs) in *D. Melanogaster*, the common fruit fly. 
