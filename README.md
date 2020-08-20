@@ -1,9 +1,18 @@
+
 # Representing Fly Behavior with Recurrent Neural Networks 
+
+<p align=”center”>
+  
+![slide37](https://user-images.githubusercontent.com/30949122/90707274-14a57100-e24c-11ea-8300-a14a16b65924.gif)
+  
+</p>
 
 My honors thesis work was on building a behavioral representation with recurrent neural networks (RNNs) in *D. Melanogaster*, the common fruit fly. 
 All the code for training the networks I used, the preprocessing and resulting data analysis is contained in this notebook 
 (although it's a bit messy - sorry I was hustling near the end what with corona & all x). I was in Dr. Gordon Berman's lab at Emory University,
 in the Department of Biology (although I completed my honors in physics). An abridged version is included here - to read my full thesis see **honors_thesis[final].pdf** in the repository and of course, feel free to email isaranwrap@gmail.com for any questions! :) 
+
+
 
 ## Introduction
 
