@@ -1,19 +1,17 @@
 
 # Representing Fly Behavior with Recurrent Neural Networks 
 
+My honors thesis work was on building a behavioral representation with recurrent neural networks (RNNs) in *D. Melanogaster*, the common fruit fly. 
+All the code for training the networks I used, the preprocessing and resulting data analysis is contained in this notebook 
+(although it's a bit messy - sorry I was hustling near the end what with corona & all x). I was in Dr. Gordon Berman's lab at Emory University,
+in the Department of Biology (although I completed my honors in physics). An abridged version is included here - to read my full thesis see **honors_thesis[final].pdf** in the repository and of course, feel free to email isaranwrap@gmail.com for any questions! :) 
+
 <p align=”center”>
   
 ![slide37](https://user-images.githubusercontent.com/30949122/90708986-06595400-e250-11ea-93e3-2da4f8970556.gif)
 ![slide43](https://user-images.githubusercontent.com/30949122/90708882-cabe8a00-e24f-11ea-92c9-230f56cf553d.gif)
 
 </p>
-
-My honors thesis work was on building a behavioral representation with recurrent neural networks (RNNs) in *D. Melanogaster*, the common fruit fly. 
-All the code for training the networks I used, the preprocessing and resulting data analysis is contained in this notebook 
-(although it's a bit messy - sorry I was hustling near the end what with corona & all x). I was in Dr. Gordon Berman's lab at Emory University,
-in the Department of Biology (although I completed my honors in physics). An abridged version is included here - to read my full thesis see **honors_thesis[final].pdf** in the repository and of course, feel free to email isaranwrap@gmail.com for any questions! :) 
-
-
 
 ## Introduction
 
